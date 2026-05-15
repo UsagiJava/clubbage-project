@@ -1,9 +1,9 @@
-# Welcome to the Clubbage Game ReadMe File
+# Welcome to the Clubbage!! Game ReadMe File
 
 PRESS to open preview window in VSC with, CTRL+SHIFT+V
 
 ## Overview
-Clubbage is a blend of the card game "Cribbage" with the video game "Mike Tyson's Punch-Out!!".  Instead of taking steps around a track, Players will deal damage to win boxing matches.
+Clubbage!! is a blend of the card game "Cribbage" with the video game "Mike Tyson's Punch-Out!!".  Instead of taking steps around a track, Players will deal damage to win boxing matches.
 
 
 1. **Phase: Corner Selection (Red/Blue):** A coin is flipped at the start of a fight to determine which corner a player will get.  If the Player guesses correctly, they will get the red/home corner.  This means they'll start as "dealer" and gets the first crib.
@@ -61,6 +61,8 @@ Clubbage is a blend of the card game "Cribbage" with the video game "Mike Tyson'
 - First match: Grisáceo Sieger (both start with 50 HP)
 - Second match: Loquito Carlito (both start with 60 HP)
 - Title match: Andre the Uncompliant (both start with 70 HP)
+
+**Punch Drunk Debuff:** An opponent can become "woozy". This is where they might not make the best decisions as they take more and more heavy blows. The "woozy" debuff can increase and will lead to a batter chance that a random decision for an attack is made by the opponent.
 
 
 
